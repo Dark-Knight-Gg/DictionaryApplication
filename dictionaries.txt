@@ -1,0 +1,502 @@
+abroad	ở nước ngoài
+absence	vắng mặt
+absent	vắng mặt, nghỉ
+absolute	tuyệt đối
+absolutely	chắc chắn rồi
+absorb	hấp thụ
+abstract	trừu tượng
+abuse	lạm dụng
+academic	học tập
+accelerate	đẩy nhanh
+accent	giọng điệu
+accept	Chấp nhận
+acceptable	chấp nhận được
+acceptance	chấp thuận
+access	truy cập
+accessible	có thể truy cập
+accident	Tai nạn
+accidental	tình cờ, bất ngờ
+accidentally	tình cờ, ngẫu nhiên
+accommodate	chứa
+accommodation	sự thích nghi, điều tiết
+accompany	đi kèm
+accomplish	hoàn thành
+accomplishment	hoàn thành
+according	theo
+according to	theo, y theo
+account	tài khoản
+accountability	trách nhiệm giải trình
+accounting	kế toán
+accuracy	tính chính xác
+accurate	chính xác
+accurately	chính xác
+accusation	tố cáo
+accuse	tố cáo
+achieve	Hoàn thành
+achievement	thành tích
+acid	axit
+acknowledge	công nhận
+acquire	có được, thu được
+acquisition	mua lại
+across	băng qua
+act	hành động
+action	hoạt động
+active	đang hoạt động
+actively	tích cực
+activist	nhà hoạt động
+activity	Hoạt động
+actor	diễn viên
+actress	nữ diễn viên
+actual	thực tế
+actually	thực ra
+ad	quảng cáo
+adapt	phỏng theo
+add	thêm vào
+added	thêm
+addition	thêm vào
+additional	bổ sung
+address	địa chỉ nhà
+adequate	đầy đủ
+adequately	tương xứng, thỏa đáng
+adjust	điều chỉnh
+adjustment	điều chỉnh
+administer	quản lý
+administration	quản trị
+administrative	hành chính
+administrator	người quản lý
+admiration	sự khâm phục,người kp, thán phục
+admire	ngưỡng mộ
+admission	nhận vào
+admit	thừa nhận
+adolescent	thanh niên
+adopt	thông qua
+adoption	nhận con nuôi
+adult	người lớn
+advance	nâng cao
+advanced	nâng cao
+advantage	lợi thế
+adventure	cuộc phiêu lưu
+advertise	báo cho biết, báo cho biết trước
+advertisement	quảng cáo
+advertising	quảng cáo
+advice	khuyên bảo
+advise	khuyên nhủ
+adviser	cố vấn
+advocate	biện hộ
+aesthetic	thẩm mỹ
+affair	chuyện
+affect	có ảnh hưởng đến
+afford	đủ khả năng
+Afghanistan	Cộng hòa Áp-gha-nít-tan
+afraid	sợ
+African	Châu Phi
+African-American	Người Mỹ gốc Phi
+after	sau
+afternoon	buổi chiều
+afterward	sau đó
+afterwards	sau này, về sau, rồi thì, sau đấy
+again	lần nữa
+against	chống lại
+age	tuổi tác
+aged	già đi
+agency	đại lý
+agenda	chương trình nghị sự
+agent	đặc vụ
+aggression	Hiếu chiến
+aggressive	xâm lược
+ago	trước
+agree	đồng ý
+agreement	thỏa thuận
+agricultural	nông nghiệp
+agriculture	nông nghiệp
+ah	ah
+ahead	phía trước
+aid	viện trợ
+aide	trợ lý
+aim	mục đích
+air	không khí
+aircraft	phi cơ
+airline	hãng hàng không
+airplane	Máy bay
+airport	sân bay
+aisle	lối đi
+alarm	báo thức
+alarming	làm lo sợ, làm hốt hoảng, làm sợ hãi
+album	album
+alcohol	rượu
+alcoholic	rượu; người nghiện rượu
+alien	người ngoài hành tinh
+alike	như nhau
+alive	sống sót
+all	tất cả các
+all right	tốt, ổn, khỏe mạnh; được
+allegation	cáo buộc
+alleged	cáo buộc
+allegedly	bị cáo buộc
+alley	hẻm
+alliance	liên minh
+allied	lien minh, đồng minh, thông
+allow	cho phép
+ally	đồng minh
+almost	hầu hết
+alone	một mình
+along	dọc theo
+alongside	bên cạnh
+aloud	lớn tiếng, to tiếng
+alphabet	bảng chữ cái, bước đầu, điều cơ bản
+alphabetical	thuộc bảng chứ cái
+alphabetically	theo thứ tự abc
+already	đã
+also	cũng thế
+alter	thay đổi
+alternative	thay thế
+although	mặc dù
+altogether	hoàn toàn
+aluminum	nhôm
+always	luôn luôn
+AM	LÀ
+amaze	làm ngạc nhiên, làm sửng sốt
+amazed	kinh ngạc, sửng sốt
+amazing	kinh ngạc
+ambassador	đại sứ
+ambition	tham vọng
+ambitious	đầy tham vọng
+ambulance	xe cứu thương, xe cấp cứu
+amendment	sửa đổi
+American	Người Mỹ
+amid	giữa
+among	trong số
+amount	số lượng
+amuse	làm cho vui, thích, làm buồn cười
+amused	vui thích
+amusing	vui thích
+analyse	phân tích
+analysis	phân tích
+analyst	nhà phân tích
+analyze	phân tích
+ancestor	tổ tiên
+ancient	xưa
+and	và
+and/or	và / hoặc
+angel	Thiên thần
+anger	Sự phẫn nộ
+angle	góc
+angrily	tức giận, giận dữ
+angry	bực bội
+animal	thú vật
+ankle	mắt cá
+anniversary	ngày kỷ niệm
+announce	tuyên bố
+announcement	thông báo
+annoy	chọc tức, làm bực mình; làm phiền, quẫy nhiễu
+annoyed	bị khó chịu, bực mình, bị quấy rầy
+annoying	chọc tức, làm bực mình; làm phiền, quẫy nhiễu
+annual	hàng năm
+annually	hàng năm
+anonymous	vô danh
+another	khác
+answer	câu trả lời
+anti- prefix	chống lại
+anticipate	đoán trước
+anxiety	sự lo ngại
+anxious	lo lắng
+anxiously	lo âu, lo lắng, băn khoăn
+any	bất kì
+anybody	bất kỳ ai
+anymore	nữa không
+anyone	bất kỳ ai
+anything	bất cứ điều gì
+anyway	dù sao
+anywhere	ở đâu
+apart	xa nhau
+apart from	ngoài… ra
+apartment	căn hộ, chung cư
+apologize	xin lỗi
+apology	xin lỗi
+apparent	rõ ràng
+apparently	dường như
+appeal	kháng cáo
+appear	xuất hiện
+appearance	xuất hiện
+apple	táo
+application	ứng dụng
+apply	ứng dụng
+appoint	bổ nhiệm
+appointment	cuộc hẹn
+appreciate	đánh giá
+appreciation	sự đánh giá
+approach	tiếp cận
+appropriate	thích hợp
+approval	sự chấp thuận
+approve	tán thành
+approving	tán thành, đồng ý, chấp thuận
+approximate	giống với, giống hệt với
+approximately	xấp xỉ
+april	tháng tư
+Arab	Arab
+architect	kiến trúc sư
+architecture	kiến trúc
+area	khu vực
+arena	đấu trường
+argue	tranh luận
+argument	tranh luận
+arise	nảy sinh
+arm	cánh tay
+armed	trang bị
+arms	vũ khí, binh giới, binh khí
+army	quân đội
+around	xung quanh
+arrange	sắp xếp
+arrangement	sắp xếp
+array	mảng
+arrest	bắt giữ
+arrival	sự đến
+arrive	đến nơi
+arrow	mũi tên
+art	nghệ thuật
+article	bài báo
+articulate	khớp nối
+artifact	đồ tạo tác
+artificial	nhân tạo
+artificially	nhân tạo
+artist	họa sĩ
+artistic	nghệ thuật
+as	như
+as soon as	ngay khi
+as well	cũng, cũng như
+ash	tro
+ashamed	ngượng, xấu hổ
+Asian	Châu Á
+aside	qua một bên
+aside from	ngoài ra, trừ ra
+ask	hỏi
+asleep	ngủ
+aspect	khía cạnh
+ass	mông
+assault	tấn công
+assemble	tập hợp
+assembly	hội,, tổ hợp
+assert	khẳng định
+assess	đánh giá
+assessment	thẩm định, lượng định, đánh giá
+asset	tài sản
+assign	chỉ định
+assignment	nhiệm vụ
+assist	hỗ trợ
+assistance	hỗ trợ
+assistant	phụ tá
+associate	liên kết
+associated	liên kết
+associated with	liên kết với
+association	hiệp hội
+assume	giả định
+assumption	giả thiết
+assure	cam đoan
+astronomer	nhà thiên văn học
+at	tại
+at first	trực tiếp
+at least	ít ra, ít nhất, chí ít
+athlete	lực sĩ
+athletic	Khỏe mạnh
+atmosphere	không khí
+atom	nguyên tử
+atop	trên
+attach	đính kèm
+attached	gắn bó
+attack	tấn công
+attempt	cố gắng
+attempted	cố gắng, thử
+attend	tham gia
+attendance	sự tham dự
+attention	chú ý
+attitude	Thái độ
+attorney	luật sư
+attract	thu hút
+attraction	sức hút
+attractive	hấp dẫn
+attribute	thuộc tính
+auction	bán đấu giá
+audience	thính giả
+august	tháng tám
+aunt	cô dì
+Australia	nước Úc
+Austria	nước Áo
+author	tác giả
+authority	thẩm quyền
+authorize	cho phép
+auto	Tự động
+automatic	tự động
+automatically	tự động
+automobile	ôtô
+autonomy	tự trị
+autumn	mùa thu
+availability	khả dụng
+available	có sẵn
+average	Trung bình cộng
+avoid	tránh
+await	chờ đợi
+awake	thức tỉnh
+award	giải thưởng
+aware	ý thức
+awareness	nhận thức
+away	xa
+awful	kinh khủng
+awkward	vụng về, lung túng
+baby	đứa bé
+back	trở lại
+background	lý lịch
+backward	về phía sau, lùi lại
+backyard	sân sau
+bacteria	vi khuẩn
+bad	xấu
+bad-tempered	xấu tính, dễ nổi cáu
+badly	tệ
+bag	túi
+baggage	hành lý
+bake	bake
+balance	cân đối
+balanced	cân bằng
+ball	trái bóng
+balloon	quả bóng bay
+ballot	phiếu
+ban	lệnh cấm
+banana	trái chuối
+band	ban nhạc
+bandage	dải băng; băng bó
+bank	ngân hàng
+banker	chủ ngân hàng
+banking	ngân hàng
+bankruptcy	phá sản
+bar	quán ba
+bare	trần
+barely	vừa đủ
+bargain	sự mặc cả, sự giao kèo mua bán
+barn	chuồng trại
+barrel	thùng
+barrier	rào chắn
+base	căn cứ
+baseball	bóng chày
+basement	tầng hầm
+basic	căn bản
+basically	về cơ bản
+basis	nền tảng
+basket	cái rổ
+basketball	bóng rổ
+bat	gậy
+bath	bồn tắm
+bathroom	phòng tắm
+battery	ắc quy
+battle	chiến đấu
+bay	bay
+be	được
+be going to	sắp sửa, có ý định
+be sick	bị ốm
+beach	bờ biển
+beak	mỏ chim
+beam	chùm tia
+bean	hạt đậu
+bear	chịu
+beard	râu
+beast	quái thú
+beat	tiết tấu
+beautiful	đẹp
+beautifully	tốt đẹp, đáng hài lòng
+beauty	sắc đẹp, vẻ đẹp
+because	bởi vì
+become	trở nên
+bed	Giường
+bedroom	phòng ngủ
+bee	con ong
+beef	thịt bò
+beer	bia
+before	trước
+beg	ăn xin
+begin	bắt đầu
+beginning	bắt đầu
+behalf	thay mặt
+behave	hành xử
+behavior	hành vi
+behavioral	hành vi
+behind	phía sau
+being	đang
+belief	niềm tin
+believe	tin
+bell	chuông
+belly	bụng
+belong	thuộc về
+below	phía dưới
+belt	thắt lưng
+bench	Băng ghế
+bend	bẻ cong
+beneath	ở trên
+benefit	lợi ích
+bent	khiếu, sở thích, khuynh hướng
+beside	bên cạnh
+besides	ngoài ra
+best	tốt
+bet	cá cược
+better	tốt hơn
+betting	sự đánh cuộc
+between	giữa
+beyond	vượt ra ngoài
+bias	sự thiên vị
+Bible	Kinh Thánh
+bicycle	Xe đạp
+bid	BID
+big	lớn
+bike	xe đạp
+bill	hóa đơn
+billion	tỷ
+bin	thùng, thùng đựng rượu
+bind	trói buộc
+biography	tiểu sử
+biological	sinh học
+biology	sinh học
+bird	chim
+birth	Sinh
+birthday	sinh nhật
+biscuit	bánh quy
+bishop	giám mục
+bit	bit
+bite	cắn
+bitter	đắng
+bitterly	đắng, đắng cay, chua xót
+black	đen
+blade	lưỡi
+blame	khiển trách
+blank	chỗ trống
+blanket	cái mền
+blankly	ngây ra, không có thần
+blast	vụ nổ
+blend	trộn
+bless	ban phước
+blessing	phước lành
+blind	mù quáng
+blink	chớp mắt
+block	khối
+blond	tóc vàng
+blonde	hoe vàng, mái tóc hoe vàng
+blood	máu
+bloody	dính máu
+blow	thổi
+blue	màu xanh da trời
+board	bảng
+boast	khoe khoan
+boat	thuyền
+body	thân hình
+boil	sôi lên
+bold	Dũng cảm
+bolt	chớp
+bomb	bom
+bombing	ném bom
+bond	liên kết
+bone	khúc xương
+bonus	thưởng
+book	sách
+boom	sự bùng nổ
+boost	tăng
+boot	khởi động
+booth	gian hàng
+border	biên giới
+	Từ bạn tra không có trong từ điển
+dog	con
